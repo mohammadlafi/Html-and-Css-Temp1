@@ -1,0 +1,86 @@
+.imgBackground{
+    background-color: blue;
+    opacity: 0.8;
+    margin-top: 60px;
+    background-image:url("img/hero_img.jpg") ;
+    background-size: cover;
+    min-height: 700px;
+}
+.bottomText{
+    padding-top: 300px;
+}
+.fontColor{
+    color: white;
+}
+.box{
+    min-height: 300px;
+    transition: transform 250ms;
+  
+}
+.box:hover{
+    opacity: 0.9;
+    transform: translateY(-5px);
+}
+.iconimg{
+    padding: 2px;
+    border-radius: 10px;
+    border: 10px solid;
+    font-size: 20px;
+    color: #e92f9c;
+    }
+.line {
+    width: 200px;
+    border-bottom: 1px solid black;
+    }
+  .p1  
+  {
+  background-image: url("img/p1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  } 
+  .p2  
+  {
+    background-image: url("img/p2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+   } 
+   .p3  
+   {
+    background-image: url("img/p3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    } 
+    .p4  
+    {
+    background-image: url("img/p4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    } 
+    .p5 
+    {
+    background-image: url("img/p5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+    } 
+    .p6  
+    {
+    background-image: url("img/p6.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    } 
+    .circle-icon {
+       font-size: 40px;
+        background: gray;
+        padding: 10px;
+        border-radius: 50%;
+    }
+    .EndStyel {
+        min-height: 100px;
+    }
+    .Fontlorem{
+        margin-left: 75px;
+    }
+   
+    
